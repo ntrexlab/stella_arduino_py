@@ -31,7 +31,7 @@ This package contains the following ROS 2 nodes and directories:
 
 - [ROS 2 Jazzy](https://docs.ros.org/en/jazzy/index.html)
 - Python 3.7+
-- [`pyserial`](https://pypi.org/project/pyserial/)
+- [pyserial](https://pypi.org/project/pyserial/)
 
 ## Installation
 Clone this package into your ROS 2 workspace:
